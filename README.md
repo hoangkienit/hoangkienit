@@ -35,6 +35,13 @@ I'm a passionate full-stack developer with a strong focus on modern web and mobi
 - 📦 Fully RESTful API with clean architecture
 - 📱 Mobile-first responsive UI/UX
 
+**DevOps & Deployment:**
+- 🚀 **CI/CD with GitHub Actions**: Automatic build and deployment pipelines triggered on push to main
+- 🐳 **Dockerized** frontend and backend for consistent and scalable containerized deployments
+- 🖥️ **VPS Hosting**: Self-managed Ubuntu-based VPS server for full control
+- 🌐 **Nginx Reverse Proxy**: SSL-secured domain routing to React and Node.js containers
+- 🔄 **Docker Compose**: Ensures service reliability, auto-restarts, and centralized process management
+
 ---
 
 ### 🐟 [Fish Farm Management System (FFMS)](https://github.com/hoangkienit/fish-farm-management)

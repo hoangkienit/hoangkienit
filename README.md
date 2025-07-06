@@ -2,6 +2,8 @@
 
 I'm a passionate full-stack developer with a strong focus on modern web and mobile technologies. I love building robust applications using clean code and scalable architectures.
 
+---
+
 ## 💼 Tech Stack
 
 ### 🖥 Frontend
@@ -19,27 +21,72 @@ I'm a passionate full-stack developer with a strong focus on modern web and mobi
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### 🌐 [iampesmobile.com](https://iampesmobile.com)
+> *Full-stack Web Application – React, Node.js, TypeScript, MongoDB*
 
-**iampesmobile.com** is a modern, responsive web application designed to deliver a seamless user experience across devices. Built with a robust tech stack including **React**, **Node.js**, **TypeScript**, **MongoDB**, the platform showcases a commitment to performance and scalability.
+**iampesmobile** is a modern and responsive web application tailored for mobile and desktop users. Built with a powerful React frontend and a secure Node.js backend, it showcases my full-stack development capabilities in creating user-friendly interfaces, scalable APIs, and real-time experiences.
+
+**Highlights:**
+- ⚙️ Admin dashboard for managing user data and mobile services
+- 🔐 JWT-based authentication and role-based access control
+- 📈 Real-time data visualization and metrics dashboard
+- 📦 Fully RESTful API with clean architecture
+- 📱 Mobile-first responsive UI/UX
+
+---
+
+### 🐟 [Fish Farm Management System (FFMS)](https://github.com/hoangkienit/fish-farm-management)
+> *React + Node.js + MongoDB – Internal Business Tool*
+
+A complete aquaculture management platform that allows users to track ponds, manage feed schedules, and monitor fish growth and health across multiple zones. Designed for productivity and real-time data tracking in farming operations.
 
 **Key Features:**
-- ⚡ **Optimized Performance** — Implements best practices for fast load times and smooth interactions.
-- 🧱 **Scalable Architecture** — Designed to handle growing user bases and future feature expansions.
+- 🗺️ Zone & pond management interface
+- 📆 Daily feed allocation and tracking
+- 📊 Dashboard for monitoring performance by pond/day/month
+- 👨‍🌾 Role-based permissions for farmers and supervisors
+- 🧾 Custom reports and data export functionality
 
-This project highlights my full-stack development skills with a focus on creating high-quality user experiences.
+---
+
+### 🧳 [Smart Trip – AI Travel Planner (Prototype)](https://github.com/hoangkienit/smart-trip-app)
+> *React Native + Foursquare API + Mapbox + Firebase*
+
+**Smart Trip** is a mobile travel planning assistant that helps users design personalized trip itineraries based on preferences and companions (friends, couples, family). Uses external APIs to suggest destinations, hotels, and restaurants nearby.
+
+**Core Features:**
+- 📍 Autocomplete places using Mapbox + Foursquare API
+- 🔥 Realtime user trip creation with Firebase Firestore
+- 🧠 Suggests places to visit based on AI filters (group type, mood)
+- 🌐 Supports multiple languages and fun/friendly UX
+- 🗂️ Save trips and view personalized suggestions
+
+---
+
+### ✅ [Taskify App](https://github.com/hoangkienit/taskify-app)
+> *ReactJS + NodeJS – Web Platform*
+
+**Taskify** is a minimalist and powerful task management web app focused on productivity and intuitive UX. Built with ReactJS and NodeJS with TypeScript, it allows users to easily create, edit, and manage daily tasks.
+
+**Main Features:**
+- 📝 Add, update, and delete tasks with ease
+- 📅 Tasks categorized by date and status
+- 🔔 Local push notification reminders
+- ☁️ Realtime like chat, friend requests and notification
+- 💡 Clean and lightweight UI/UX with dark mode support
 
 ---
 
 ## 📊 GitHub Stats
+
 ![Kien's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hoangkienit&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🎯 Fun Facts
+
 - 🧠 I enjoy solving real-world problems through code.
 - 🎮 I’m also into game development and indie projects.
 - ☕ A cup of coffee and TypeScript is my ideal combo.
-
